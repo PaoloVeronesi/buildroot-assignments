@@ -3,7 +3,7 @@
 # AESD-ASSIGNMENTS
 #
 ##############################################################
-AESD_ASSIGNMENTS_VERSION = 1b3bab5
+AESD_ASSIGNMENTS_VERSION = f3244ba
 AESD_ASSIGNMENTS_SITE = git@github.com:PaoloVeronesi/aesd-assignments.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
